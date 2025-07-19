@@ -1,7 +1,7 @@
 # ORCA Tech Study
 
 **ORCA Tech** is a professional education and technology services organization.<br>
-Within it, the **ORCA Tech Study** initiative offers completely **free** cloud-native labs and learning materials to individuals with **zero prior tech experience** — helping them go from *zero to hero* in software development, DevOps, systems engineering, and cloud computing.
+Within it, the **ORCA Tech Study** initiative offers completely **free** cloud-native labs and learning materials to individuals with **zero prior tech experience** - helping them go from *zero to hero* in software development, DevOps, systems engineering, and cloud computing.
 
 **ORCA Tech Study** is a dedicated division of ORCA Tech, staffed by professionals who design, deploy, and maintain educational content to support learners at every stage.
 
