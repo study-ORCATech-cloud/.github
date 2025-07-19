@@ -9,7 +9,7 @@ Within it, the **ORCA Tech Study** initiative offers completely **free** cloud
 
 - **Hands-on labs** that simulate real-world, production-grade environments.
 - **Step-by-step tutorials** and structured learning paths.
-- Training in **Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, GCP, Azure**, and much more!.
+- Training in **Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, GCP, Azure** and much more.
 - A free, automated lab platform at [**learn-and-earn.online**](https://learn-and-earn.online).
 - Open-source lab definitions and materials available at [**study-ORCATech-cloud**](https://github.com/study-ORCATech-cloud).
 
