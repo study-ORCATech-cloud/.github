@@ -11,7 +11,7 @@ Within it, the [**ORCA Tech Study**](https://github.com/study-ORCATech-cloud) 
 - **Step-by-step tutorials** and structured learning paths.
 - Training in **Linux, Docker, Kubernetes, Terraform, CI/CD, AWS, GCP, Azure** and much more.
 - A free, automated lab platform at [**learn-and-earn.online**](https://learn-and-earn.online).
-- Open-source lab definitions and materials available at [**study-ORCATech-cloud**](https://github.com/study-ORCATech-cloud).
+- Open-source lab definitions and materials available at [**ORCA Tech Study**](https://github.com/study-ORCATech-cloud).
 
 ### 🚀 Our Mission
 
