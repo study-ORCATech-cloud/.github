@@ -15,7 +15,7 @@ Within it, the [**ORCA Tech Study**](https://github.com/study-ORCATech-cloud) 
 
 ### 🚀 Our Mission
 
-**ORCA Tech Study** bridges the gap between curiosity and capability — delivering **expert-grade cloud education for free**, backed by a professional organization committed to learner success. We believe in removing barriers to entry and helping people build the skills they need to succeed in the modern tech world.
+**ORCA Tech Study** bridges the gap between curiosity and capability - delivering **expert-grade cloud education for free**, backed by a professional organization committed to learner success. We believe in removing barriers to entry and helping people build the skills they need to succeed in the modern tech world.
 
 ---
 
