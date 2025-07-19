@@ -17,7 +17,6 @@
 **ORCA Tech Study** bridges the gap between curiosity and capability — delivering **expert-grade cloud education for free**, backed by a professional organization committed to learner success. We believe in removing barriers to entry and helping people build the skills they need to succeed in the modern tech world.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yehoraz&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help us by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YehorazL) 
